@@ -1,0 +1,5 @@
+{
+  "name": "EcoClean: Smart Waste Management",
+  "description": "A community-driven platform for reporting and managing urban waste. Features AI-powered waste classification, real-time tracking, and an admin dashboard for municipalities.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
