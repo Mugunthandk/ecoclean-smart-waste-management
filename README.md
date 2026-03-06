@@ -1,20 +1,69 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="EcoClean Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# EcoClean – Smart Waste Management System
 
-This contains everything you need to run your app locally.
+EcoClean is a smart waste management platform designed to help citizens report garbage issues and assist authorities in managing waste collection more efficiently.
 
-View your app in AI Studio: https://ai.studio/apps/06d39841-a583-44db-af6e-9d8be4020bef
+The system allows users to report waste locations, upload images, and track cleanup progress. It helps municipalities respond quickly and maintain cleaner cities.
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+* Report garbage or waste locations
+* Upload images of waste areas
+* Location-based reporting
+* Admin dashboard for monitoring complaints
+* Efficient waste management tracking
 
+## Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* Frontend: React / TypeScript
+* Backend: Node.js
+* Database: Firebase / Cloud Database
+* Maps API for location tracking
+
+## Run the Project Locally
+
+### Prerequisites
+
+Make sure the following software is installed:
+
+* Node.js
+* npm
+
+### Steps to Run
+
+1. Clone the repository
+
+```
+git clone https://github.com/Mugunthandk/ecoclean-smart-waste-management.git
+```
+
+2. Open the project folder
+
+```
+cd ecoclean-smart-waste-management
+```
+
+3. Install dependencies
+
+```
+npm install
+```
+
+4. Run the development server
+
+```
+npm run dev
+```
+
+5. Open your browser and go to
+
+```
+http://localhost:3000
+```
+
+## Project Goal
+
+The goal of EcoClean is to create a technology-driven solution for smarter waste monitoring and cleaner environments.
