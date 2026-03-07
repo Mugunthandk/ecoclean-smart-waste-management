@@ -15,6 +15,8 @@ The system allows users to report waste locations, upload images, and track clea
 * Location-based reporting
 * Admin dashboard for monitoring complaints
 * Efficient waste management tracking
+* Real-time complaint tracking
+* Community participation for cleaner cities
 
 ## Tech Stack
 
@@ -67,3 +69,11 @@ http://localhost:3000
 ## Project Goal
 
 The goal of EcoClean is to create a technology-driven solution for smarter waste monitoring and cleaner environments.
+
+## Future Improvements
+
+* AI-based waste detection
+* Smart garbage bin monitoring
+* Route optimization for waste collection trucks
+* Mobile application for citizens
+* Data analytics for city waste management
